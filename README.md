@@ -4,11 +4,11 @@
 
 ## [Tenable.io Overview](#tenableio-overview-notes)
 This provides an overview of the Tenable.io Platform.
-E-Learning
+ - Dashboards and groups management 
+ This chapter mostly concern with the grapical interface of tenable.io. Very easy and skippable. 
 ## [Tenable.io Asset Management](#tenableio-asset-management-notes)
 This course will help users identify, and track all assets, including infrastructure devices and mobile assets. Whether these assets are in the cloud, or on-premises, users can investigate the why and how of asset management with this series of videos. 
-E-Learning
-Duration: 3h
+
 ## [Tenable.io Vulnerability Management](#tenableio-vulnerability-management-notes)
 This course introduces the concepts of vulnerability assessment, reporting, and management. These videos will demonstrate how the robust interface of Tenable.io help customers share data, run scans, contextualize and analyze data, and quickly share reports with key stakeholders.
 E-Learning
