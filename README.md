@@ -23,7 +23,7 @@ E-Learning
 ## [Tenable.io Web Application Scanning](#tenableio-container-security-notes)
 While organizations build increasingly complex business applications, vulnerabilities in those applications continue to plague the security team tasked with identifying and addressing security risks. Part of the Tenable.io platform, Tenable.io Web Application Scanning delivers safe and automated vulnerability scanning that covers your entire online portfolio. In this series, you will learn how to discover your web applications, safely assess them to avoid downtime, and easily report the findings so you can prioritize remediation.
 E-Learning
-## [Tenable.io Certificate of Proficiency]()
+## [Tenable.io Certificate of Proficiency](#tenableio-certificate-of-proficiency-notes-1)
 Tenable.io Certificate of Proficiency online examination is designed to evaluate your global comprehension of the Tenable.io platform. The Certificate of Proficiency requires a passing score of 70%, and consists of the following sections: Sensor Deployment Asset Management Vulnerability Management The examination is comprised of a random selection of multiple-choice questions from each of the topic areas. The examination has a 45-minute time limit. All 30 questions must be completed within a single session. This exam is considered open book and open internet; which includes search engines and Tenable.io but does not include sharing questions or answers with any other person. You may perform research as needed to complete the exam within the allotted time.
 E-Learning 
 
