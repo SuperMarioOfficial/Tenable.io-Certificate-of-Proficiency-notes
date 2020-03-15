@@ -12,7 +12,7 @@ This course will help users view vulnerability, malware and other security data 
 - continuously monitoring of containers activities 
 - add policy to block critical vulnerable containers
 - integrate with jenkins all images are automatically tested in the registry 
-![](jenkins.jpg)
+![](jenkins.PNG)
 ## [Tenable.io Web Application Scanning](#tenableio-container-security-notes)
 While organizations build increasingly complex business applications, vulnerabilities in those applications continue to plague the security team tasked with identifying and addressing security risks. Part of the Tenable.io platform, Tenable.io Web Application Scanning delivers safe and automated vulnerability scanning that covers your entire online portfolio. In this series, you will learn how to discover your web applications, safely assess them to avoid downtime, and easily report the findings so you can prioritize remediation.
 
